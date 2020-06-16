@@ -1,10 +1,10 @@
-# Ubuntu 20.04 LTS (Bionic) Ansible Test Image
+# Ubuntu 20.04 LTS (Focal Fossa) Ansible Test Image
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![Build Status](https://travis-ci.org/joshuacherry/docker-ubuntu2004-ansible.svg?branch=master)](https://travis-ci.org/joshuacherry/docker-ubuntu2004-ansible)
 [![Docker Automated build](https://img.shields.io/docker/automated/joshuacherry/docker-ubuntu2004-ansible.svg?maxAge=2592000)](https://hub.docker.com/r/joshuacherry/docker-ubuntu2004-ansible/)
 
-Ubuntu 20.04 LTS (Bionic) Docker container for Ansible playbook and role testing.
+Ubuntu 20.04 LTS (Focal Fossa) Docker container for Ansible playbook and role testing.
 
 ## How to Build
 
